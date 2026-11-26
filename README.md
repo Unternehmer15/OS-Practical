@@ -6,9 +6,9 @@
 
 **Language:** Python
 
-**Submitted by:** Prince Rathore
+**Submitted by:** Yash Raj Mehta
 
-**Roll No.:** 2472170
+**Roll No.:** 2472188
 
 ---
 
