@@ -109,8 +109,8 @@ Average waiting time: 2.5
 
 ## Author
 
-**Prince Rathore**
+**Yash Raj Mehta**
 
 B.Tech CSE, Third Year
 
-Roll No.: 2472170
+Roll No.: 2472188
